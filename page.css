@@ -9,8 +9,24 @@
 .internet-image{
     width: 300px;
     border-radius: 3%;
+    align-content: center;
+    margin-top: 10px;
 
 }
-.p{
-    color: aqua;
+.p1{
+    color: rgb(37, 126, 126);
+    margin-left: 50px;
+}
+.h1{
+    padding-top: 50px;
+    margin-left: 50px;
+    color: green;
+    
+}
+.p2{
+    margin-left: 50px;
+}
+.table{
+
+    margin-left: 100px;
 }
