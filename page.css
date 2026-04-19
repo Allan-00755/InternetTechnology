@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 .wrapper{
     margin: 0 auto;
@@ -16,6 +17,7 @@
 .p1{
     color: rgb(37, 126, 126);
     margin-left: 50px;
+    padding-top: 50px;
 }
 .h1{
     padding-top: 50px;
@@ -29,4 +31,67 @@
 .table{
 
     margin-left: 100px;
+}
+.navbar{
+    
+    background: crimson;
+    font-family: Calibri;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.lag-p a{
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+    }
+.nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+.nav ul li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+button{
+    background-color: black;
+    margin-left: 10;
+    border-radius: 10px;
+    padding: 10px;
+    width: 90px;
+}
+button a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.list1{
+  text-align:center;
+}
+img {
+    border-radius: 50%;
+   width: 250px;
+   height: 250px;
+   
+   
+}
+.cover{
+    padding-top: 30px;
+    padding-left: 0;
+    padding-right: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 0rem;
+    align-items: center;
+}
+.cover{
+    
 }
