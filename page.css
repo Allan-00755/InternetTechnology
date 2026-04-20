@@ -95,3 +95,41 @@ img {
 .cover{
     
 }
+footer {
+    background: #b62d2d;
+      background-color: #b62d2d;
+      color: #bd2121;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    .footer-container {
+        background: #b62d2d;
+     /* max-width: 1000px;
+      margin: auto;*/
+    }
+
+    .social-links {
+      margin: 15px 0;
+      text-align: center;
+    }
+
+    .social-links a {
+        text-align: center;
+      display: inline-block;
+      margin: 0 10px;
+      color: bisque;
+      text-decoration: none;
+      font-size: 18px;
+      transition: color 0.3s ease;
+    }
+
+    .social-links a:hover {
+      color: #1da1f2;
+    }
+
+    .footer-bottom {
+        text-align: center;
+      font-size: 14px;
+      color: #aaa;
+    }
