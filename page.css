@@ -83,7 +83,7 @@ img {
    
 }
 .cover{
-    padding-top: 30px;
+    padding-top: 0gitpx;
     padding-left: 100px;
     padding-right: 600px;
     display: flex;
@@ -92,9 +92,7 @@ img {
     gap: 0rem;
     align-items: center;
 }
-.cover{
-    
-}
+
 footer {
     background: #b62d2d;
       background-color: #b62d2d;
