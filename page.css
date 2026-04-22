@@ -84,8 +84,8 @@ img {
 }
 .cover{
     padding-top: 30px;
-    padding-left: 0;
-    padding-right: 700px;
+    padding-left: 100px;
+    padding-right: 600px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
